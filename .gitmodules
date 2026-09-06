@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/localopen/localopen.r-universe.dev
 	branch = HEAD
 [submodule "enrollcast"]
 	path = enrollcast
